@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "The Fresh Spinach are harvested with care to bring you the best in quality and flavor.<ul><li>Perfect for a healthy snack</li><li>Rich in vitamins and minerals</li><li>High in protein</li></ul>",
+    "category": "Fruits",
+    "price": 98.64
+  },
+  {
+    "id": 2,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Our Greek Yogurt are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>High in protein</li><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Meat",
+    "price": 6.73
+  },
+  {
+    "id": 3,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Enjoy the taste of our Fresh Carrots, known for their quality and freshness.<ul><li>Low in fat</li><li>High in protein</li><li>Low in fat</li></ul>",
+    "category": "Fruits",
+    "price": 25.39
+  },
+  {
+    "id": 4,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "The Low-Fat Milk are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>Gluten-free</li><li>Gluten-free</li></ul>",
+    "category": "Frozen",
+    "price": 41.91
+  },
+  {
+    "id": 5,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "These Organic Apple are perfect for your daily diet, packed with essential nutrients.<ul><li>Freshly picked and carefully packed</li><li>Freshly picked and carefully packed</li><li>Non-GMO</li></ul>",
+    "category": "Dairy",
+    "price": 97.19
+  },
+  {
+    "id": 6,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "These Organic Eggs are perfect for your daily diet, packed with essential nutrients.<ul><li>Low in fat</li><li>Freshly picked and carefully packed</li><li>Low in fat</li></ul>",
+    "category": "Dairy",
+    "price": 77.84
+  },
+  {
+    "id": 7,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "These Organic Eggs are perfect for your daily diet, packed with essential nutrients.<ul><li>Non-GMO</li><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Frozen",
+    "price": 0.28
+  },
+  {
+    "id": 8,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>High in protein</li><li>Great for cooking and baking</li></ul>",
+    "category": "Frozen",
+    "price": 37.67
+  },
+  {
+    "id": 9,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "These Low-Fat Milk are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>Non-GMO</li><li>Great for cooking and baking</li></ul>",
+    "category": "Snacks",
+    "price": 90.55
+  },
+  {
+    "id": 10,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Enjoy the taste of our Greek Yogurt, known for their quality and freshness.<ul><li>Non-GMO</li><li>Perfect for a healthy snack</li><li>Gluten-free</li></ul>",
+    "category": "Fruits",
+    "price": 76.85
+  },
+  {
+    "id": 11,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Enjoy the taste of our Fresh Carrots, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>Gluten-free</li><li>Non-GMO</li></ul>",
+    "category": "Bakery",
+    "price": 27.76
+  },
+  {
+    "id": 12,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "The Organic Apple are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Great for cooking and baking</li><li>Low in fat</li></ul>",
+    "category": "Frozen",
+    "price": 0.31
+  },
+  {
+    "id": 13,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Our Whole Wheat Bread are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li><li>Non-GMO</li></ul>",
+    "category": "Meat",
+    "price": 41.4
+  },
+  {
+    "id": 14,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "The Fresh Carrots are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>Perfect for a healthy snack</li><li>High in protein</li></ul>",
+    "category": "Bakery",
+    "price": 3.04
+  },
+  {
+    "id": 15,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Non-GMO</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Meat",
+    "price": 22.39
+  },
+  {
+    "id": 16,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "The Organic Bananas are harvested with care to bring you the best in quality and flavor.<ul><li>Rich in vitamins and minerals</li><li>Great for cooking and baking</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Dairy",
+    "price": 54.93
+  },
+  {
+    "id": 17,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Our Organic Apple are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Non-GMO</li><li>Perfect for a healthy snack</li><li>High in protein</li></ul>",
+    "category": "Beverages",
+    "price": 40
+  },
+  {
+    "id": 18,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>Great for cooking and baking</li><li>Perfect for a healthy snack</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Bakery",
+    "price": 17.1
+  },
+  {
+    "id": 19,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "The Fresh Carrots are harvested with care to bring you the best in quality and flavor.<ul><li>Perfect for a healthy snack</li><li>Non-GMO</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 66.15
+  },
+  {
+    "id": 20,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "These Low-Fat Milk are perfect for your daily diet, packed with essential nutrients.<ul><li>Non-GMO</li><li>Gluten-free</li><li>Low in fat</li></ul>",
+    "category": "Organic",
+    "price": 10.61
+  },
+  {
+    "id": 21,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "Enjoy the taste of our Oatmeal, known for their quality and freshness.<ul><li>Low in fat</li><li>Rich in vitamins and minerals</li><li>Non-GMO</li></ul>",
+    "category": "Snacks",
+    "price": 39.98
+  },
+  {
+    "id": 22,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>Non-GMO</li><li>Great for cooking and baking</li><li>Low in fat</li></ul>",
+    "category": "Frozen",
+    "price": 99.39
+  },
+  {
+    "id": 23,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>High in protein</li><li>Gluten-free</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Beverages",
+    "price": 18.52
+  },
+  {
+    "id": 24,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "The Oatmeal are harvested with care to bring you the best in quality and flavor.<ul><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Meat",
+    "price": 88.42
+  },
+  {
+    "id": 25,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "The Low-Fat Milk are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>Low in fat</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 73.72
+  },
+  {
+    "id": 26,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Low in fat</li><li>Great for cooking and baking</li></ul>",
+    "category": "Organic",
+    "price": 56.44
+  },
+  {
+    "id": 27,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "These Oatmeal are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Perfect for a healthy snack</li><li>Non-GMO</li></ul>",
+    "category": "Frozen",
+    "price": 31.24
+  },
+  {
+    "id": 28,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "Our Fresh Spinach are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Non-GMO</li><li>Freshly picked and carefully packed</li><li>High in protein</li></ul>",
+    "category": "Organic",
+    "price": 99.83
+  },
+  {
+    "id": 29,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "The Free-Range Chicken are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li><li>Great for cooking and baking</li></ul>",
+    "category": "Fruits",
+    "price": 9.23
+  },
+  {
+    "id": 30,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Freshly picked and carefully packed</li><li>High in protein</li><li>Low in fat</li></ul>",
+    "category": "Meat",
+    "price": 17.8
+  },
+  {
+    "id": 31,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "These Organic Bananas are perfect for your daily diet, packed with essential nutrients.<ul><li>Low in fat</li><li>Perfect for a healthy snack</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Meat",
+    "price": 69.72
+  },
+  {
+    "id": 32,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "Our Organic Eggs are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Non-GMO</li><li>Gluten-free</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Snacks",
+    "price": 53.87
+  },
+  {
+    "id": 33,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "These Oatmeal are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Beverages",
+    "price": 24.85
+  },
+  {
+    "id": 34,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Our Quinoa are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Rich in vitamins and minerals</li><li>High in protein</li><li>Non-GMO</li></ul>",
+    "category": "Frozen",
+    "price": 28.4
+  },
+  {
+    "id": 35,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Enjoy the taste of our Organic Bananas, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>Non-GMO</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Snacks",
+    "price": 33.28
+  },
+  {
+    "id": 36,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>Non-GMO</li><li>High in protein</li></ul>",
+    "category": "Dairy",
+    "price": 60.71
+  },
+  {
+    "id": 37,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "Enjoy the taste of our Oatmeal, known for their quality and freshness.<ul><li>Freshly picked and carefully packed</li><li>Great for cooking and baking</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Fruits",
+    "price": 20.23
+  },
+  {
+    "id": 38,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "The Greek Yogurt are harvested with care to bring you the best in quality and flavor.<ul><li>Perfect for a healthy snack</li><li>Freshly picked and carefully packed</li><li>Non-GMO</li></ul>",
+    "category": "Organic",
+    "price": 53.78
+  },
+  {
+    "id": 39,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Enjoy the taste of our Whole Wheat Bread, known for their quality and freshness.<ul><li>Non-GMO</li><li>Gluten-free</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Meat",
+    "price": 57.7
+  },
+  {
+    "id": 40,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "These Whole Wheat Bread are perfect for your daily diet, packed with essential nutrients.<ul><li>Great for cooking and baking</li><li>High in protein</li><li>Great for cooking and baking</li></ul>",
+    "category": "Meat",
+    "price": 47.38
+  },
+  {
+    "id": 41,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "The Almond Butter are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Non-GMO</li><li>High in protein</li></ul>",
+    "category": "Dairy",
+    "price": 91.61
+  },
+  {
+    "id": 42,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "The Oatmeal are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>Low in fat</li><li>Low in fat</li></ul>",
+    "category": "Dairy",
+    "price": 35.93
+  },
+  {
+    "id": 43,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Enjoy the taste of our Organic Apple, known for their quality and freshness.<ul><li>High in protein</li><li>Rich in vitamins and minerals</li><li>Great for cooking and baking</li></ul>",
+    "category": "Dairy",
+    "price": 74.8
+  },
+  {
+    "id": 44,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "These Whole Wheat Bread are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Gluten-free</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 94.28
+  },
+  {
+    "id": 45,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Our Almond Butter are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Perfect for a healthy snack</li><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 21.27
+  },
+  {
+    "id": 46,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "These Greek Yogurt are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Non-GMO</li><li>High in protein</li></ul>",
+    "category": "Fruits",
+    "price": 83.44
+  },
+  {
+    "id": 47,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>Great for cooking and baking</li><li>Gluten-free</li></ul>",
+    "category": "Dairy",
+    "price": 34.37
+  },
+  {
+    "id": 48,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Our Whole Wheat Bread are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Non-GMO</li><li>Great for cooking and baking</li><li>Gluten-free</li></ul>",
+    "category": "Frozen",
+    "price": 9.23
+  },
+  {
+    "id": 49,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "The Low-Fat Milk are harvested with care to bring you the best in quality and flavor.<ul><li>Perfect for a healthy snack</li><li>Low in fat</li><li>Low in fat</li></ul>",
+    "category": "Frozen",
+    "price": 33.19
+  },
+  {
+    "id": 50,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "The Organic Eggs are harvested with care to bring you the best in quality and flavor.<ul><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li></ul>",
+    "category": "Dairy",
+    "price": 58.83
+  },
+  {
+    "id": 51,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Our Greek Yogurt are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Perfect for a healthy snack</li><li>Freshly picked and carefully packed</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Snacks",
+    "price": 58.02
+  },
+  {
+    "id": 52,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Our Free-Range Chicken are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Freshly picked and carefully packed</li><li>Perfect for a healthy snack</li><li>Low in fat</li></ul>",
+    "category": "Beverages",
+    "price": 88.12
+  },
+  {
+    "id": 53,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "The Organic Bananas are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>Great for cooking and baking</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 95
+  },
+  {
+    "id": 54,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "These Whole Wheat Bread are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Perfect for a healthy snack</li><li>Low in fat</li></ul>",
+    "category": "Dairy",
+    "price": 69.74
+  },
+  {
+    "id": 55,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "Our Oatmeal are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Great for cooking and baking</li><li>Non-GMO</li></ul>",
+    "category": "Fruits",
+    "price": 71.28
+  },
+  {
+    "id": 56,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "These Oatmeal are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>High in protein</li><li>High in protein</li></ul>",
+    "category": "Beverages",
+    "price": 36
+  },
+  {
+    "id": 57,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Our Greek Yogurt are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Low in fat</li><li>Freshly picked and carefully packed</li><li>High in protein</li></ul>",
+    "category": "Organic",
+    "price": 65.52
+  },
+  {
+    "id": 58,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "These Organic Apple are perfect for your daily diet, packed with essential nutrients.<ul><li>Perfect for a healthy snack</li><li>Freshly picked and carefully packed</li><li>Low in fat</li></ul>",
+    "category": "Beverages",
+    "price": 92.13
+  },
+  {
+    "id": 59,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li><li>Low in fat</li></ul>",
+    "category": "Bakery",
+    "price": 58.36
+  },
+  {
+    "id": 60,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "The Low-Fat Milk are harvested with care to bring you the best in quality and flavor.<ul><li>Rich in vitamins and minerals</li><li>Low in fat</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Meat",
+    "price": 28.88
+  },
+  {
+    "id": 61,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "These Whole Wheat Bread are perfect for your daily diet, packed with essential nutrients.<ul><li>Low in fat</li><li>Non-GMO</li><li>High in protein</li></ul>",
+    "category": "Organic",
+    "price": 80.59
+  },
+  {
+    "id": 62,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>Freshly picked and carefully packed</li><li>Gluten-free</li><li>Great for cooking and baking</li></ul>",
+    "category": "Beverages",
+    "price": 14.34
+  },
+  {
+    "id": 63,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "The Low-Fat Milk are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Rich in vitamins and minerals</li><li>Gluten-free</li></ul>",
+    "category": "Beverages",
+    "price": 24.6
+  },
+  {
+    "id": 64,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Our Almond Butter are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Perfect for a healthy snack</li><li>Freshly picked and carefully packed</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Bakery",
+    "price": 78.63
+  },
+  {
+    "id": 65,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "These Free-Range Chicken are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Gluten-free</li><li>Great for cooking and baking</li></ul>",
+    "category": "Meat",
+    "price": 64.59
+  },
+  {
+    "id": 66,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Enjoy the taste of our Free-Range Chicken, known for their quality and freshness.<ul><li>Gluten-free</li><li>Perfect for a healthy snack</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Meat",
+    "price": 9.48
+  },
+  {
+    "id": 67,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "Enjoy the taste of our Organic Eggs, known for their quality and freshness.<ul><li>Low in fat</li><li>Rich in vitamins and minerals</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Beverages",
+    "price": 71.07
+  },
+  {
+    "id": 68,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "The Almond Butter are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>Great for cooking and baking</li><li>Gluten-free</li></ul>",
+    "category": "Dairy",
+    "price": 0.63
+  },
+  {
+    "id": 69,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "Our Fresh Spinach are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Perfect for a healthy snack</li><li>High in protein</li><li>Great for cooking and baking</li></ul>",
+    "category": "Snacks",
+    "price": 12.55
+  },
+  {
+    "id": 70,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Enjoy the taste of our Whole Wheat Bread, known for their quality and freshness.<ul><li>Rich in vitamins and minerals</li><li>High in protein</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Frozen",
+    "price": 67.7
+  },
+  {
+    "id": 71,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Enjoy the taste of our Greek Yogurt, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>Rich in vitamins and minerals</li><li>High in protein</li></ul>",
+    "category": "Snacks",
+    "price": 83.87
+  },
+  {
+    "id": 72,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>High in protein</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Bakery",
+    "price": 42.01
+  },
+  {
+    "id": 73,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Freshly picked and carefully packed</li><li>Rich in vitamins and minerals</li><li>Low in fat</li></ul>",
+    "category": "Beverages",
+    "price": 72.47
+  },
+  {
+    "id": 74,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "These Fresh Carrots are perfect for your daily diet, packed with essential nutrients.<ul><li>Low in fat</li><li>Non-GMO</li><li>Gluten-free</li></ul>",
+    "category": "Snacks",
+    "price": 11.94
+  },
+  {
+    "id": 75,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Enjoy the taste of our Quinoa, known for their quality and freshness.<ul><li>Gluten-free</li><li>Gluten-free</li><li>Non-GMO</li></ul>",
+    "category": "Frozen",
+    "price": 58.78
+  },
+  {
+    "id": 76,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li><li>Low in fat</li></ul>",
+    "category": "Meat",
+    "price": 74.55
+  },
+  {
+    "id": 77,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "These Free-Range Chicken are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>Non-GMO</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Bakery",
+    "price": 84.93
+  },
+  {
+    "id": 78,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "These Quinoa are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Freshly picked and carefully packed</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Beverages",
+    "price": 27.71
+  },
+  {
+    "id": 79,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "The Quinoa are harvested with care to bring you the best in quality and flavor.<ul><li>Non-GMO</li><li>High in protein</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Meat",
+    "price": 74.57
+  },
+  {
+    "id": 80,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Enjoy the taste of our Greek Yogurt, known for their quality and freshness.<ul><li>Gluten-free</li><li>Great for cooking and baking</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 8.92
+  },
+  {
+    "id": 81,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>High in protein</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Snacks",
+    "price": 0.7
+  },
+  {
+    "id": 82,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "The Greek Yogurt are harvested with care to bring you the best in quality and flavor.<ul><li>Non-GMO</li><li>Gluten-free</li><li>Gluten-free</li></ul>",
+    "category": "Organic",
+    "price": 35.64
+  },
+  {
+    "id": 83,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Our Quinoa are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Non-GMO</li><li>Gluten-free</li></ul>",
+    "category": "Bakery",
+    "price": 35.54
+  },
+  {
+    "id": 84,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "The Free-Range Chicken are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Non-GMO</li><li>High in protein</li></ul>",
+    "category": "Dairy",
+    "price": 74.35
+  },
+  {
+    "id": 85,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Enjoy the taste of our Greek Yogurt, known for their quality and freshness.<ul><li>Freshly picked and carefully packed</li><li>Low in fat</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Beverages",
+    "price": 26.19
+  },
+  {
+    "id": 86,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "These Quinoa are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Great for cooking and baking</li><li>Gluten-free</li></ul>",
+    "category": "Meat",
+    "price": 25.22
+  },
+  {
+    "id": 87,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "These Fresh Carrots are perfect for your daily diet, packed with essential nutrients.<ul><li>Great for cooking and baking</li><li>Great for cooking and baking</li><li>Non-GMO</li></ul>",
+    "category": "Frozen",
+    "price": 36.62
+  },
+  {
+    "id": 88,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>Gluten-free</li><li>Non-GMO</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Frozen",
+    "price": 39.22
+  },
+  {
+    "id": 89,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "These Free-Range Chicken are perfect for your daily diet, packed with essential nutrients.<ul><li>Perfect for a healthy snack</li><li>Low in fat</li><li>Non-GMO</li></ul>",
+    "category": "Beverages",
+    "price": 16.8
+  },
+  {
+    "id": 90,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Enjoy the taste of our Fresh Carrots, known for their quality and freshness.<ul><li>Gluten-free</li><li>High in protein</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Dairy",
+    "price": 13.69
+  },
+  {
+    "id": 91,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "These Greek Yogurt are perfect for your daily diet, packed with essential nutrients.<ul><li>Non-GMO</li><li>Low in fat</li><li>Gluten-free</li></ul>",
+    "category": "Bakery",
+    "price": 97.16
+  },
+  {
+    "id": 92,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Our Fresh Carrots are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Low in fat</li><li>Non-GMO</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 17.7
+  },
+  {
+    "id": 93,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "The Organic Bananas are harvested with care to bring you the best in quality and flavor.<ul><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Fruits",
+    "price": 58.26
+  },
+  {
+    "id": 94,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "The Greek Yogurt are harvested with care to bring you the best in quality and flavor.<ul><li>High in protein</li><li>Freshly picked and carefully packed</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Meat",
+    "price": 60.25
+  },
+  {
+    "id": 95,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Our Greek Yogurt are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Perfect for a healthy snack</li><li>Non-GMO</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Beverages",
+    "price": 60.75
+  },
+  {
+    "id": 96,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Our Organic Apple are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Rich in vitamins and minerals</li><li>Gluten-free</li><li>Great for cooking and baking</li></ul>",
+    "category": "Organic",
+    "price": 51.65
+  },
+  {
+    "id": 97,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>High in protein</li><li>Rich in vitamins and minerals</li><li>Non-GMO</li></ul>",
+    "category": "Meat",
+    "price": 8.75
+  },
+  {
+    "id": 98,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Freshly picked and carefully packed</li><li>Non-GMO</li></ul>",
+    "category": "Meat",
+    "price": 55.57
+  },
+  {
+    "id": 99,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "These Quinoa are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>High in protein</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Frozen",
+    "price": 55.76
+  },
+  {
+    "id": 100,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Great for cooking and baking</li><li>Low in fat</li></ul>",
+    "category": "Snacks",
+    "price": 69.81
+  },
+  {
+    "id": 101,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "Our Organic Eggs are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Gluten-free</li><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li></ul>",
+    "category": "Organic",
+    "price": 54.84
+  },
+  {
+    "id": 102,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "The Fresh Spinach are harvested with care to bring you the best in quality and flavor.<ul><li>Rich in vitamins and minerals</li><li>Freshly picked and carefully packed</li><li>Low in fat</li></ul>",
+    "category": "Beverages",
+    "price": 32.54
+  },
+  {
+    "id": 103,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "These Quinoa are perfect for your daily diet, packed with essential nutrients.<ul><li>Perfect for a healthy snack</li><li>Non-GMO</li><li>Non-GMO</li></ul>",
+    "category": "Frozen",
+    "price": 45.39
+  },
+  {
+    "id": 104,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "These Organic Bananas are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Non-GMO</li><li>Non-GMO</li></ul>",
+    "category": "Organic",
+    "price": 36.41
+  },
+  {
+    "id": 105,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "The Quinoa are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>Gluten-free</li><li>Gluten-free</li></ul>",
+    "category": "Beverages",
+    "price": 10.52
+  },
+  {
+    "id": 106,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "These Fresh Spinach are perfect for your daily diet, packed with essential nutrients.<ul><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li><li>High in protein</li></ul>",
+    "category": "Fruits",
+    "price": 18.69
+  },
+  {
+    "id": 107,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "The Free-Range Chicken are harvested with care to bring you the best in quality and flavor.<ul><li>High in protein</li><li>Non-GMO</li><li>Low in fat</li></ul>",
+    "category": "Organic",
+    "price": 79.26
+  },
+  {
+    "id": 108,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "The Whole Wheat Bread are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>Low in fat</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Beverages",
+    "price": 7.6
+  },
+  {
+    "id": 109,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Enjoy the taste of our Greek Yogurt, known for their quality and freshness.<ul><li>Gluten-free</li><li>Great for cooking and baking</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 54.2
+  },
+  {
+    "id": 110,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Gluten-free</li><li>Low in fat</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 23.68
+  },
+  {
+    "id": 111,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "These Low-Fat Milk are perfect for your daily diet, packed with essential nutrients.<ul><li>Low in fat</li><li>Non-GMO</li><li>Great for cooking and baking</li></ul>",
+    "category": "Dairy",
+    "price": 52.06
+  },
+  {
+    "id": 112,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Enjoy the taste of our Quinoa, known for their quality and freshness.<ul><li>Freshly picked and carefully packed</li><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Organic",
+    "price": 63.97
+  },
+  {
+    "id": 113,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Enjoy the taste of our Greek Yogurt, known for their quality and freshness.<ul><li>Rich in vitamins and minerals</li><li>Non-GMO</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 78.89
+  },
+  {
+    "id": 114,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "Enjoy the taste of our Fresh Spinach, known for their quality and freshness.<ul><li>High in protein</li><li>Perfect for a healthy snack</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Snacks",
+    "price": 98.73
+  },
+  {
+    "id": 115,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "The Organic Apple are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Non-GMO</li><li>Gluten-free</li></ul>",
+    "category": "Bakery",
+    "price": 42.48
+  },
+  {
+    "id": 116,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "The Free-Range Chicken are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>Perfect for a healthy snack</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Meat",
+    "price": 40.01
+  },
+  {
+    "id": 117,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Our Fresh Carrots are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li><li>Non-GMO</li></ul>",
+    "category": "Organic",
+    "price": 24.64
+  },
+  {
+    "id": 118,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "The Quinoa are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>Non-GMO</li><li>High in protein</li></ul>",
+    "category": "Bakery",
+    "price": 92.83
+  },
+  {
+    "id": 119,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Enjoy the taste of our Greek Yogurt, known for their quality and freshness.<ul><li>Gluten-free</li><li>Gluten-free</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Organic",
+    "price": 54.22
+  },
+  {
+    "id": 120,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Our Whole Wheat Bread are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Freshly picked and carefully packed</li><li>High in protein</li><li>Great for cooking and baking</li></ul>",
+    "category": "Fruits",
+    "price": 82.46
+  },
+  {
+    "id": 121,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "The Fresh Spinach are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Low in fat</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Meat",
+    "price": 79.68
+  },
+  {
+    "id": 122,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "The Fresh Carrots are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>Rich in vitamins and minerals</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Snacks",
+    "price": 88.66
+  },
+  {
+    "id": 123,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "These Free-Range Chicken are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Perfect for a healthy snack</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Dairy",
+    "price": 99
+  },
+  {
+    "id": 124,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Enjoy the taste of our Fresh Carrots, known for their quality and freshness.<ul><li>Non-GMO</li><li>Gluten-free</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Fruits",
+    "price": 66.82
+  },
+  {
+    "id": 125,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "The Almond Butter are harvested with care to bring you the best in quality and flavor.<ul><li>Rich in vitamins and minerals</li><li>High in protein</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Snacks",
+    "price": 98.95
+  },
+  {
+    "id": 126,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Enjoy the taste of our Whole Wheat Bread, known for their quality and freshness.<ul><li>Gluten-free</li><li>Low in fat</li><li>Non-GMO</li></ul>",
+    "category": "Meat",
+    "price": 8.05
+  },
+  {
+    "id": 127,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "The Fresh Spinach are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>High in protein</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Frozen",
+    "price": 34.53
+  },
+  {
+    "id": 128,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "The Organic Eggs are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>Perfect for a healthy snack</li><li>High in protein</li></ul>",
+    "category": "Bakery",
+    "price": 41.5
+  },
+  {
+    "id": 129,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "The Almond Butter are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>High in protein</li><li>Great for cooking and baking</li></ul>",
+    "category": "Snacks",
+    "price": 90.69
+  },
+  {
+    "id": 130,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Our Organic Apple are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>High in protein</li><li>Freshly picked and carefully packed</li><li>Non-GMO</li></ul>",
+    "category": "Fruits",
+    "price": 61.74
+  },
+  {
+    "id": 131,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Our Organic Apple are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Freshly picked and carefully packed</li><li>Low in fat</li></ul>",
+    "category": "Beverages",
+    "price": 14.76
+  },
+  {
+    "id": 132,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Enjoy the taste of our Whole Wheat Bread, known for their quality and freshness.<ul><li>High in protein</li><li>Non-GMO</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Beverages",
+    "price": 74.98
+  },
+  {
+    "id": 133,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "These Organic Eggs are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 86.42
+  },
+  {
+    "id": 134,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "The Organic Eggs are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>Non-GMO</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 47.79
+  },
+  {
+    "id": 135,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "These Quinoa are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>High in protein</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Frozen",
+    "price": 44.04
+  },
+  {
+    "id": 136,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Enjoy the taste of our Free-Range Chicken, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>Low in fat</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Frozen",
+    "price": 90.1
+  },
+  {
+    "id": 137,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Enjoy the taste of our Quinoa, known for their quality and freshness.<ul><li>Non-GMO</li><li>Gluten-free</li><li>Gluten-free</li></ul>",
+    "category": "Bakery",
+    "price": 37.56
+  },
+  {
+    "id": 138,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Enjoy the taste of our Free-Range Chicken, known for their quality and freshness.<ul><li>Gluten-free</li><li>Freshly picked and carefully packed</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Meat",
+    "price": 91.46
+  },
+  {
+    "id": 139,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Our Free-Range Chicken are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Gluten-free</li><li>Great for cooking and baking</li><li>Non-GMO</li></ul>",
+    "category": "Snacks",
+    "price": 6.3
+  },
+  {
+    "id": 140,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Our Almond Butter are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Freshly picked and carefully packed</li><li>Great for cooking and baking</li><li>Non-GMO</li></ul>",
+    "category": "Beverages",
+    "price": 93.64
+  },
+  {
+    "id": 141,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "These Organic Bananas are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Rich in vitamins and minerals</li><li>Gluten-free</li></ul>",
+    "category": "Snacks",
+    "price": 87.59
+  },
+  {
+    "id": 142,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "The Quinoa are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>Low in fat</li><li>Low in fat</li></ul>",
+    "category": "Fruits",
+    "price": 20.08
+  },
+  {
+    "id": 143,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "Enjoy the taste of our Organic Eggs, known for their quality and freshness.<ul><li>Freshly picked and carefully packed</li><li>Perfect for a healthy snack</li><li>Non-GMO</li></ul>",
+    "category": "Snacks",
+    "price": 92.19
+  },
+  {
+    "id": 144,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "The Almond Butter are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>High in protein</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Organic",
+    "price": 82.66
+  },
+  {
+    "id": 145,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "Enjoy the taste of our Low-Fat Milk, known for their quality and freshness.<ul><li>Rich in vitamins and minerals</li><li>Non-GMO</li><li>Non-GMO</li></ul>",
+    "category": "Dairy",
+    "price": 13.51
+  },
+  {
+    "id": 146,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "These Organic Apple are perfect for your daily diet, packed with essential nutrients.<ul><li>Great for cooking and baking</li><li>Non-GMO</li><li>Low in fat</li></ul>",
+    "category": "Frozen",
+    "price": 95.35
+  },
+  {
+    "id": 147,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "The Organic Eggs are harvested with care to bring you the best in quality and flavor.<ul><li>Low in fat</li><li>High in protein</li><li>Great for cooking and baking</li></ul>",
+    "category": "Organic",
+    "price": 54.96
+  },
+  {
+    "id": 148,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "Our Organic Eggs are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Dairy",
+    "price": 55.55
+  },
+  {
+    "id": 149,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Enjoy the taste of our Whole Wheat Bread, known for their quality and freshness.<ul><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Organic",
+    "price": 77.1
+  },
+  {
+    "id": 150,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "These Organic Eggs are perfect for your daily diet, packed with essential nutrients.<ul><li>Low in fat</li><li>Perfect for a healthy snack</li><li>High in protein</li></ul>",
+    "category": "Frozen",
+    "price": 81.61
+  },
+  {
+    "id": 151,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "These Free-Range Chicken are perfect for your daily diet, packed with essential nutrients.<ul><li>Great for cooking and baking</li><li>Non-GMO</li><li>Non-GMO</li></ul>",
+    "category": "Beverages",
+    "price": 17.82
+  },
+  {
+    "id": 152,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "The Fresh Carrots are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>Gluten-free</li><li>High in protein</li></ul>",
+    "category": "Snacks",
+    "price": 95.77
+  },
+  {
+    "id": 153,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "These Greek Yogurt are perfect for your daily diet, packed with essential nutrients.<ul><li>Perfect for a healthy snack</li><li>High in protein</li><li>Non-GMO</li></ul>",
+    "category": "Organic",
+    "price": 37.92
+  },
+  {
+    "id": 154,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "Our Organic Eggs are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Great for cooking and baking</li><li>Gluten-free</li></ul>",
+    "category": "Dairy",
+    "price": 7.92
+  },
+  {
+    "id": 155,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Enjoy the taste of our Fresh Carrots, known for their quality and freshness.<ul><li>Low in fat</li><li>Low in fat</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Snacks",
+    "price": 62
+  },
+  {
+    "id": 156,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "The Organic Eggs are harvested with care to bring you the best in quality and flavor.<ul><li>Non-GMO</li><li>High in protein</li><li>Low in fat</li></ul>",
+    "category": "Dairy",
+    "price": 25.65
+  },
+  {
+    "id": 157,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "These Almond Butter are perfect for your daily diet, packed with essential nutrients.<ul><li>Great for cooking and baking</li><li>Great for cooking and baking</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 22.55
+  },
+  {
+    "id": 158,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "The Whole Wheat Bread are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Gluten-free</li><li>Low in fat</li></ul>",
+    "category": "Fruits",
+    "price": 91.87
+  },
+  {
+    "id": 159,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Enjoy the taste of our Free-Range Chicken, known for their quality and freshness.<ul><li>Low in fat</li><li>Non-GMO</li><li>Low in fat</li></ul>",
+    "category": "Fruits",
+    "price": 14.54
+  },
+  {
+    "id": 160,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "These Oatmeal are perfect for your daily diet, packed with essential nutrients.<ul><li>High in protein</li><li>Freshly picked and carefully packed</li><li>Low in fat</li></ul>",
+    "category": "Dairy",
+    "price": 53.48
+  },
+  {
+    "id": 161,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Enjoy the taste of our Quinoa, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>Gluten-free</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Frozen",
+    "price": 54.23
+  },
+  {
+    "id": 162,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "The Whole Wheat Bread are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>Perfect for a healthy snack</li><li>High in protein</li></ul>",
+    "category": "Beverages",
+    "price": 35.28
+  },
+  {
+    "id": 163,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Enjoy the taste of our Organic Bananas, known for their quality and freshness.<ul><li>Great for cooking and baking</li><li>Freshly picked and carefully packed</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Frozen",
+    "price": 35.66
+  },
+  {
+    "id": 164,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Our Fresh Carrots are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Low in fat</li><li>Rich in vitamins and minerals</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Snacks",
+    "price": 99.82
+  },
+  {
+    "id": 165,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Enjoy the taste of our Free-Range Chicken, known for their quality and freshness.<ul><li>High in protein</li><li>Freshly picked and carefully packed</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 43.9
+  },
+  {
+    "id": 166,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Gluten-free</li><li>Non-GMO</li><li>Gluten-free</li></ul>",
+    "category": "Meat",
+    "price": 6.26
+  },
+  {
+    "id": 167,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "The Greek Yogurt are harvested with care to bring you the best in quality and flavor.<ul><li>High in protein</li><li>Non-GMO</li><li>Freshly picked and carefully packed</li></ul>",
+    "category": "Bakery",
+    "price": 95.45
+  },
+  {
+    "id": 168,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Our Organic Apple are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Perfect for a healthy snack</li><li>High in protein</li></ul>",
+    "category": "Organic",
+    "price": 17.54
+  },
+  {
+    "id": 169,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "The Organic Bananas are harvested with care to bring you the best in quality and flavor.<ul><li>High in protein</li><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li></ul>",
+    "category": "Frozen",
+    "price": 48.2
+  },
+  {
+    "id": 170,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Enjoy the taste of our Quinoa, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>Gluten-free</li><li>Gluten-free</li></ul>",
+    "category": "Fruits",
+    "price": 94.12
+  },
+  {
+    "id": 171,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "The Low-Fat Milk are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>High in protein</li><li>Great for cooking and baking</li></ul>",
+    "category": "Organic",
+    "price": 60.1
+  },
+  {
+    "id": 172,
+    "name": "Organic Eggs",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Eggs",
+    "description": "Our Organic Eggs are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Perfect for a healthy snack</li><li>Non-GMO</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Organic",
+    "price": 36.12
+  },
+  {
+    "id": 173,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Our Organic Apple are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Low in fat</li><li>Great for cooking and baking</li><li>Non-GMO</li></ul>",
+    "category": "Meat",
+    "price": 17.54
+  },
+  {
+    "id": 174,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "These Oatmeal are perfect for your daily diet, packed with essential nutrients.<ul><li>Freshly picked and carefully packed</li><li>Non-GMO</li><li>Gluten-free</li></ul>",
+    "category": "Meat",
+    "price": 69.8
+  },
+  {
+    "id": 175,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>Non-GMO</li><li>Low in fat</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Meat",
+    "price": 40.84
+  },
+  {
+    "id": 176,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "Enjoy the taste of our Whole Wheat Bread, known for their quality and freshness.<ul><li>High in protein</li><li>Gluten-free</li><li>Low in fat</li></ul>",
+    "category": "Fruits",
+    "price": 88.52
+  },
+  {
+    "id": 177,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "Our Fresh Carrots are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Non-GMO</li><li>Freshly picked and carefully packed</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Frozen",
+    "price": 81.44
+  },
+  {
+    "id": 178,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "Our Oatmeal are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Great for cooking and baking</li><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li></ul>",
+    "category": "Dairy",
+    "price": 53.59
+  },
+  {
+    "id": 179,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "These Greek Yogurt are perfect for your daily diet, packed with essential nutrients.<ul><li>Great for cooking and baking</li><li>Gluten-free</li><li>Low in fat</li></ul>",
+    "category": "Meat",
+    "price": 1.94
+  },
+  {
+    "id": 180,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "The Fresh Carrots are harvested with care to bring you the best in quality and flavor.<ul><li>Freshly picked and carefully packed</li><li>Low in fat</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Snacks",
+    "price": 87.94
+  },
+  {
+    "id": 181,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "Enjoy the taste of our Oatmeal, known for their quality and freshness.<ul><li>High in protein</li><li>Low in fat</li><li>Non-GMO</li></ul>",
+    "category": "Meat",
+    "price": 34.61
+  },
+  {
+    "id": 182,
+    "name": "Fresh Carrots",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Carrots",
+    "description": "These Fresh Carrots are perfect for your daily diet, packed with essential nutrients.<ul><li>Gluten-free</li><li>Low in fat</li><li>Great for cooking and baking</li></ul>",
+    "category": "Dairy",
+    "price": 40.51
+  },
+  {
+    "id": 183,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Our Free-Range Chicken are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Rich in vitamins and minerals</li><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li></ul>",
+    "category": "Frozen",
+    "price": 6.42
+  },
+  {
+    "id": 184,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "The Low-Fat Milk are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>Gluten-free</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Bakery",
+    "price": 95.43
+  },
+  {
+    "id": 185,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "The Whole Wheat Bread are harvested with care to bring you the best in quality and flavor.<ul><li>Perfect for a healthy snack</li><li>Rich in vitamins and minerals</li><li>Great for cooking and baking</li></ul>",
+    "category": "Bakery",
+    "price": 67.63
+  },
+  {
+    "id": 186,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Enjoy the taste of our Organic Bananas, known for their quality and freshness.<ul><li>Great for cooking and baking</li><li>Freshly picked and carefully packed</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Fruits",
+    "price": 47.65
+  },
+  {
+    "id": 187,
+    "name": "Low-Fat Milk",
+    "image": "https://via.placeholder.com/500x300?text=Low-Fat%20Milk",
+    "description": "These Low-Fat Milk are perfect for your daily diet, packed with essential nutrients.<ul><li>Rich in vitamins and minerals</li><li>Freshly picked and carefully packed</li><li>Non-GMO</li></ul>",
+    "category": "Snacks",
+    "price": 60.39
+  },
+  {
+    "id": 188,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "Enjoy the taste of our Organic Apple, known for their quality and freshness.<ul><li>Perfect for a healthy snack</li><li>Great for cooking and baking</li><li>Great for cooking and baking</li></ul>",
+    "category": "Fruits",
+    "price": 15.97
+  },
+  {
+    "id": 189,
+    "name": "Whole Wheat Bread",
+    "image": "https://via.placeholder.com/500x300?text=Whole%20Wheat%20Bread",
+    "description": "The Whole Wheat Bread are harvested with care to bring you the best in quality and flavor.<ul><li>High in protein</li><li>Great for cooking and baking</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 62.54
+  },
+  {
+    "id": 190,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "The Organic Apple are harvested with care to bring you the best in quality and flavor.<ul><li>Non-GMO</li><li>Rich in vitamins and minerals</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Organic",
+    "price": 7.28
+  },
+  {
+    "id": 191,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "Enjoy the taste of our Almond Butter, known for their quality and freshness.<ul><li>Gluten-free</li><li>Perfect for a healthy snack</li><li>High in protein</li></ul>",
+    "category": "Meat",
+    "price": 48.05
+  },
+  {
+    "id": 192,
+    "name": "Quinoa",
+    "image": "https://via.placeholder.com/500x300?text=Quinoa",
+    "description": "Enjoy the taste of our Quinoa, known for their quality and freshness.<ul><li>Non-GMO</li><li>Great for cooking and baking</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Fruits",
+    "price": 76.13
+  },
+  {
+    "id": 193,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Our Greek Yogurt are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Gluten-free</li><li>Non-GMO</li><li>High in protein</li></ul>",
+    "category": "Dairy",
+    "price": 13.54
+  },
+  {
+    "id": 194,
+    "name": "Fresh Spinach",
+    "image": "https://via.placeholder.com/500x300?text=Fresh%20Spinach",
+    "description": "Our Fresh Spinach are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Freshly picked and carefully packed</li><li>Low in fat</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Dairy",
+    "price": 32.82
+  },
+  {
+    "id": 195,
+    "name": "Greek Yogurt",
+    "image": "https://via.placeholder.com/500x300?text=Greek%20Yogurt",
+    "description": "Our Greek Yogurt are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Rich in vitamins and minerals</li><li>Non-GMO</li><li>Gluten-free</li></ul>",
+    "category": "Dairy",
+    "price": 95.32
+  },
+  {
+    "id": 196,
+    "name": "Almond Butter",
+    "image": "https://via.placeholder.com/500x300?text=Almond%20Butter",
+    "description": "The Almond Butter are harvested with care to bring you the best in quality and flavor.<ul><li>Great for cooking and baking</li><li>Great for cooking and baking</li><li>Non-GMO</li></ul>",
+    "category": "Snacks",
+    "price": 80.36
+  },
+  {
+    "id": 197,
+    "name": "Free-Range Chicken",
+    "image": "https://via.placeholder.com/500x300?text=Free-Range%20Chicken",
+    "description": "Enjoy the taste of our Free-Range Chicken, known for their quality and freshness.<ul><li>Gluten-free</li><li>Gluten-free</li><li>Non-GMO</li></ul>",
+    "category": "Meat",
+    "price": 18.37
+  },
+  {
+    "id": 198,
+    "name": "Organic Apple",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Apple",
+    "description": "The Organic Apple are harvested with care to bring you the best in quality and flavor.<ul><li>Gluten-free</li><li>Great for cooking and baking</li><li>Perfect for a healthy snack</li></ul>",
+    "category": "Meat",
+    "price": 75.8
+  },
+  {
+    "id": 199,
+    "name": "Oatmeal",
+    "image": "https://via.placeholder.com/500x300?text=Oatmeal",
+    "description": "The Oatmeal are harvested with care to bring you the best in quality and flavor.<ul><li>Perfect for a healthy snack</li><li>Freshly picked and carefully packed</li><li>Great for cooking and baking</li></ul>",
+    "category": "Beverages",
+    "price": 45.58
+  },
+  {
+    "id": 200,
+    "name": "Organic Bananas",
+    "image": "https://via.placeholder.com/500x300?text=Organic%20Bananas",
+    "description": "Our Organic Bananas are sourced from the finest farms, ensuring they are fresh and nutritious.<ul><li>Perfect for a healthy snack</li><li>Rich in vitamins and minerals</li><li>Rich in vitamins and minerals</li></ul>",
+    "category": "Fruits",
+    "price": 42.59
+  }
+]
